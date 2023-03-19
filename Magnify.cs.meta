@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5bb312708172e4915a104c6429c6d6d2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - glassesOn: {instanceID: 0}
+  - glassesOff: {instanceID: 0}
+  - interactibles: {fileID: 5763736491113953341, guid: 6635c786068b74590bcec5e50f704ff5, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
